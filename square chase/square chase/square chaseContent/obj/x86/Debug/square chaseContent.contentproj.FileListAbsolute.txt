@@ -1,0 +1,2 @@
+C:\Users\eahscs\Documents\Visual Studio 2010\Projects\square chase\square chase\square chaseContent\obj\x86\Debug\square chaseContent.contentprojResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\squarechase\square chase\square chase\square chaseContent\obj\x86\Debug\square chaseContent.contentprojResolveAssemblyReference.cache
